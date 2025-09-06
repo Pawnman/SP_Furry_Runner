@@ -40,7 +40,7 @@ The player controls Puss in Boots who must run away from the pursuing wolf. Alon
 ## 📥 Installation
 
 ### Android
-1. Download the APK file from the [latest release]()
+1. Download the APK file from the [latest release](https://drive.google.com/drive/folders/18GVZMFcs56fnNEJD5wJlEakxWTPLYYST?usp=sharing)
 2. Allow installation from unknown sources in your device settings
 3. Install the application and launch it
 
