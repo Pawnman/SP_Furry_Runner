@@ -49,4 +49,4 @@ The player controls Puss in Boots who must run away from the pursuing wolf. Alon
 
 | Gameplay | Menu |
 |----------|-----------|
-| ![Gameplay](<img src="./imgs/pic_1.jpg" width="400"/>) | ![Menu](<img src="./imgs/pic_2.jpg" width="400"/>) |
+| ![Gameplay](imgs/pic_2.jpg) | ![Menu](imgs/pic_1.jpg) |
